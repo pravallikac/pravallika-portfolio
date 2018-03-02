@@ -4,7 +4,7 @@
   "version": "4.0.0-beta.2",
   "description": "A freelancer portfolio HTML theme for Bootstrap.",
   "scripts": {
-    "start": "node app",
+    "start": "node gulpfile.js",
     "postinstall": "gulp default"
   },
   "keywords": [
